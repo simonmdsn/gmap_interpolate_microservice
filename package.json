@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-geometry-library": "^1.1.1",
     "nodemon": "^1.19.4",
     "spherical-geometry-js": "^2.0.0"
